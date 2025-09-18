@@ -132,8 +132,8 @@ terraform apply
 ```
 
 **Expected Resource Names:**
-- VPC: `sre-dev-vpc`
-- Subnet: `sre-dev-subnet`
+- VPC: `sree-dev-vpc`
+- Subnet: `sree-dev-subnet`
 - EC2: `sree-dev-EC2`
 - S3: `sree-dev-terraform-test-bucket-{random}`
 
@@ -154,8 +154,8 @@ terraform apply
 ```
 
 **Expected Resource Names:**
-- VPC: `sre-prod-vpc`
-- Subnet: `sre-prod-subnet`
+- VPC: `sree-prod-vpc`
+- Subnet: `sree-prod-subnet`
 - EC2: `sree-prod-EC2`
 - S3: `sree-prod-terraform-test-bucket-{random}`
 
